@@ -1,0 +1,15 @@
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\bin\Debug\net6.0\DIO-SistemaHospedagem-Desafio.exe
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\bin\Debug\net6.0\DIO-SistemaHospedagem-Desafio.deps.json
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\bin\Debug\net6.0\DIO-SistemaHospedagem-Desafio.runtimeconfig.json
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\bin\Debug\net6.0\DIO-SistemaHospedagem-Desafio.dll
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\bin\Debug\net6.0\DIO-SistemaHospedagem-Desafio.pdb
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\obj\Debug\net6.0\DIO-SistemaHospedagem-Desafio.csproj.AssemblyReference.cache
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\obj\Debug\net6.0\DIO-SistemaHospedagem-Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\obj\Debug\net6.0\DIO-SistemaHospedagem-Desafio.AssemblyInfoInputs.cache
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\obj\Debug\net6.0\DIO-SistemaHospedagem-Desafio.AssemblyInfo.cs
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\obj\Debug\net6.0\DIO-SistemaHospedagem-Desafio.csproj.CoreCompileInputs.cache
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\obj\Debug\net6.0\DIO-SistemaHospedagem-Desafio.dll
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\obj\Debug\net6.0\refint\DIO-SistemaHospedagem-Desafio.dll
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\obj\Debug\net6.0\DIO-SistemaHospedagem-Desafio.pdb
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\obj\Debug\net6.0\DIO-SistemaHospedagem-Desafio.genruntimeconfig.cache
+C:\Users\kelly\source\repos\DIO-SistemaHospedagem-Desafio\DIO-SistemaHospedagem-Desafio\obj\Debug\net6.0\ref\DIO-SistemaHospedagem-Desafio.dll
